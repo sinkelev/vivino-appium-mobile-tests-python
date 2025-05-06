@@ -1,0 +1,13 @@
+{
+    "devices": [
+        {
+            "name": "Android Studio Emulator",
+            "platformName": "Android",
+            "automationName": "UiAutomator2",
+            "deviceName": "emulator-5554",
+            "udid": "emulator-5554",
+            "platformVersion": "16.0",
+            "appActivity": "com.vivino.activity"
+        }
+    ]
+}
